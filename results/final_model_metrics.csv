@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1,roc_auc,parameters
+Baseline RBF SVM,1.0,1.0,1.0,1.0,1.0,"{'C': 1.0, 'gamma': 'scale'}"
+Tuned RBF SVM,1.0,1.0,1.0,1.0,1.0,"{'model__C': 1, 'model__gamma': 'scale'}"
